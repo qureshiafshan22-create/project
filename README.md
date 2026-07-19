@@ -17,7 +17,7 @@ Responsive UI — works cleanly across desktop and mobile viewports
 
 🖥️ Tech Stack
 
-Structure:HTML5 ,Styling:CSS3 (custom properties, CSS Grid/Flexbox),Logic:Vanilla JavaScript (ES6+),Charts:Chart.js, Fonts:Google Fonts
+Structure:HTML5 ,Styling:CSS3 (custom properties, CSS Grid/Flexbox),Logic: JavaScript,Charts:Chart.js, Fonts:Google Fonts
 
 No frameworks, no build step, no dependencies to install — pure client-side implementation.
 

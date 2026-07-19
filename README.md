@@ -62,6 +62,8 @@ Add pagination for very large datasets
 Export filtered data to CSV
 Add user authentication for multi-account dashboards
 
+|| Deploy link https://project-five-amber-91.vercel.app/ ||
+ 
 
 📄 License
 
